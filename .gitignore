@@ -1,0 +1,10 @@
+.idea/
+.serverless
+node_modules/
+logs/
+.DS_Store
+.Trashes
+tmp/
+.env
+.env.development
+config/aws.json
